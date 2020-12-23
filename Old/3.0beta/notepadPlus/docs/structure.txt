@@ -1,0 +1,23 @@
+notepad+/
+│
+├── docs/
+│   ├── hello.md
+|   ├── structure.txt
+│
+├── notepad/
+│   ├── main.py
+│   ├── GUI.py
+│   ├── importer.py
+|   ├── variables.py
+│
+├── data/
+│   ├── icon.png
+│
+├── output/
+|   ├── notepad outputs and logs(future)
+│
+├── tests/
+|   ├── test.txt
+│
+├── LICENSE
+└── README.md

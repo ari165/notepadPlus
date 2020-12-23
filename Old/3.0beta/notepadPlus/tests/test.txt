@@ -1,0 +1,5 @@
+asksaveasfilename(initialfile='Untitled.txt',
+                                            defaultextension=".txt",
+                                            filetypes=[("All Files","*.*"),
+                                                ("Text Documents","*.txt")])
+self.textArea.delete(1.0, tk.END)
